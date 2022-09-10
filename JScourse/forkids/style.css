@@ -1,0 +1,27 @@
+html, body {
+
+  background-color:#A5F1E9;
+}
+
+h1{
+  color:#F675A8;
+  font-family: 'Quicksand','sans-serif';
+  font-size:65px;
+}
+
+img{
+  height:600px;
+  border-radius: 8px;
+}
+
+p{
+  font-size:30px;
+}
+
+.newClass{
+  color:white;
+  background-color:#F675A8;
+  text-decoration: none;
+  padding:20px 15px;
+  border-radius: 4px;
+}
